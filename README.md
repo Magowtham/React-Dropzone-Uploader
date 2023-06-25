@@ -4,7 +4,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js Logo" height="50">
   <img src="https://logowik.com/content/uploads/images/socket-io3232.logowik.com.webp" alt="Socket.io Logo" height="50">
 </div>
-![Logo](logo.png)
 
 React Node Socket.io File Uploader is an open-source file uploading application built using React, Node.js, and Socket.io. It allows users to easily upload files by dragging and dropping them onto the designated area. The uploaded files are then sent in chunks to the Node.js server using Socket.io, enabling real-time progress updates during the upload process.
 
